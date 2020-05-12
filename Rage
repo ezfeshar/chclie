@@ -6,7 +6,7 @@
 			"Auto scope" : true,
 			"Auto shot" : true,
 			"Between shots" : true,
-			"Bone" : 1,
+			"Bone" : 2,
 			"Enabled" : true,
 			"Fov" : 255.0,
 			"Friendly fire" : false,
@@ -19,9 +19,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : false,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : true,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : false
 		},
 		{
@@ -42,9 +46,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -65,9 +73,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -88,9 +100,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -111,9 +127,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -134,9 +154,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -157,9 +181,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -180,9 +208,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -203,9 +235,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -226,9 +262,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -249,9 +289,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -272,9 +316,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -295,9 +343,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -318,9 +370,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -341,9 +397,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -364,9 +424,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -387,9 +451,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -410,9 +478,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -433,9 +505,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -456,9 +532,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -479,9 +559,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -502,9 +586,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -525,9 +613,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -548,9 +640,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -571,9 +667,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -594,9 +694,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -617,9 +721,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -640,9 +748,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -663,9 +775,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -686,9 +802,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -709,9 +829,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -732,9 +856,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -755,9 +883,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -778,9 +910,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -801,9 +937,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -824,9 +964,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -847,9 +991,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -870,9 +1018,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -893,9 +1045,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		},
 		{
@@ -916,9 +1072,13 @@
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 1,
 			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true
 		}
 	],
