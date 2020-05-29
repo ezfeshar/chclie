@@ -6,7 +6,7 @@
 			"Auto scope" : true,
 			"Auto shot" : true,
 			"Between shots" : false,
-			"Bone" : 1,
+			"Bone" : 2,
 			"Enabled" : true,
 			"Fov" : 255.0,
 			"Friendly fire" : false,
@@ -1309,15 +1309,15 @@
 				{
 					"Color" : 
 					[
-						1.0,
-						1.0,
-						1.0
+						0.83644860982894897,
+						0.75436723232269287,
+						0.75436723232269287
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Enabled" : false,
-				"Health based" : false,
+				"Enabled" : true,
+				"Health based" : true,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -3637,17 +3637,17 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Font" : 15,
+				"Font" : 5,
 				"HP side" : 0,
 				"Head dot" : 
 				{
 					"Color" : 
 					[
-						0.79350042343139648,
-						0.12204131484031677,
-						0.96728974580764771
+						0.96261680126190186,
+						0.83145403861999512,
+						0.26089614629745483
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -3704,9 +3704,9 @@
 				{
 					"Color" : 
 					[
-						0.0,
-						0.0,
-						0.0
+						9.9999999747524271e-07,
+						9.9998999303352321e-07,
+						9.9998999303352321e-07
 					],
 					"Enabled" : false,
 					"Rainbow" : false,
@@ -5511,7 +5511,7 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : true,
-			"alpha" : 0.6600000262260437,
+			"alpha" : 0.60000002384185791,
 			"healthBased" : true,
 			"style" : 0,
 			"thickness" : 1.0
@@ -7747,10 +7747,10 @@
 			"Saturation" : 0.0,
 			"Yellow" : 0.0
 		},
-		"Deagle spinner" : false,
+		"Deagle spinner" : true,
 		"Fov" : 0,
 		"Hit effect" : 0,
-		"Hit effect time" : 0.60000002384185791,
+		"Hit effect time" : 0.20000000298023224,
 		"Hit marker" : 0,
 		"Hit marker time" : 0.60000002384185791,
 		"No aim punch" : true,
@@ -7762,11 +7762,11 @@
 		{
 			"Color" : 
 			[
-				1.0,
-				1.0,
-				1.0
+				0.58039218187332153,
+				0.054901964962482452,
+				0.76078438758850098
 			],
-			"Enabled" : false,
+			"Enabled" : true,
 			"Rainbow" : false,
 			"Rainbow speed" : 0.60000002384185791
 		},
@@ -7775,17 +7775,17 @@
 		{
 			"Color" : 
 			[
-				1.0,
-				1.0,
-				1.0
+				0.45349502563476563,
+				0.057166576385498047,
+				0.55607473850250244
 			],
-			"Enabled" : false,
+			"Enabled" : true,
 			"Rainbow" : false,
 			"Rainbow speed" : 0.60000002384185791
 		},
 		"Zoom" : false,
 		"Zoom key" : 6,
-		"brightness" : 0.0,
+		"brightness" : 0.8399999737739563,
 		"disablePostProcessing" : true,
 		"farZ" : 0,
 		"flashReduction" : 100,
@@ -7798,11 +7798,11 @@
 		"noScopeOverlay" : true,
 		"noShadows" : false,
 		"noSleeves" : false,
-		"noSmoke" : false,
+		"noSmoke" : true,
 		"noWeapons" : false,
-		"skybox" : 0,
+		"skybox" : 1,
 		"thirdperson" : true,
-		"thirdpersonDistance" : 279,
+		"thirdpersonDistance" : 272,
 		"thirdpersonKey" : 34,
 		"viewmodelFov" : 0,
 		"wireframeSmoke" : true
