@@ -1084,7 +1084,7 @@
 	],
 	"Anti aim" : 
 	{
-		"AntiAim Mode" : 1,
+		"AntiAim Mode" : 0,
 		"Body Lean" : 100.0,
 		"Enabled" : true,
 		"Inverse Yaw Key" : 6,
@@ -1097,7 +1097,7 @@
 		"Pitch angle" : 89.0,
 		"Yaw" : true,
 		"Yaw Real" : true,
-		"Yaw angle" : -179.0
+		"Yaw angle" : 136.22999572753906
 	},
 	"Backtrack" : 
 	{
@@ -4941,7 +4941,7 @@
 		"Abusive Communications" : false,
 		"Aim Hacking" : true,
 		"Delay" : 1,
-		"Enabled" : true,
+		"Enabled" : false,
 		"Griefing" : false,
 		"Other Hacking" : true,
 		"Rounds" : 1000,
