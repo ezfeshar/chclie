@@ -14,7 +14,7 @@
 			"Ignore smoke" : true,
 			"Key" : 6,
 			"Key mode" : 0,
-			"Killshot" : false,
+			"Killshot" : true,
 			"Max aim inaccuracy" : 1.0,
 			"Max shot inaccuracy" : 1.0,
 			"Min damage" : 0,
@@ -1084,13 +1084,20 @@
 	],
 	"Anti aim" : 
 	{
+		"AntiAim Mode" : 1,
+		"Body Lean" : 100.0,
 		"Enabled" : true,
-		"Indicators" : true,
-		"Invert" : 5,
-		"Lby" : true,
+		"Inverse Yaw Key" : 6,
+		"Inverse Yaw Key Mode" : 1,
+		"Jitter Max" : 47.520000457763672,
+		"Jitter Min" : -45.939998626708984,
+		"LBY Angle" : 180.0,
+		"LBY Breaker" : true,
 		"Pitch" : true,
 		"Pitch angle" : 89.0,
-		"Yaw" : true
+		"Yaw" : true,
+		"Yaw Real" : true,
+		"Yaw angle" : -179.0
 	},
 	"Backtrack" : 
 	{
@@ -1597,6 +1604,86 @@
 					"Rainbow speed" : 0.60000002384185791
 				},
 				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
 				"Health based" : false,
 				"Material" : 0,
 				"Wireframe" : false
@@ -4770,8 +4857,6 @@
 			"Rainbow speed" : 0.60000002384185791
 		},
 		"Bunny hop" : true,
-		"Choked packets" : 0,
-		"Choked packets key" : 0,
 		"Clan tag" : "",
 		"Clock tag" : false,
 		"Custom Hit Sound" : "",
@@ -4781,7 +4866,16 @@
 		"Disable model occlusion" : false,
 		"Edge Jump" : false,
 		"Edge Jump Key" : 18,
+		"Fake Duck" : true,
+		"Fake Duck Key" : 5,
 		"Fake prime" : true,
+		"Fakelag In Air" : false,
+		"Fakelag Mode" : 0,
+		"Fakelag Ticks" : 0,
+		"Fakelag While Moving" : false,
+		"Fakelag While Shooting" : false,
+		"Fakelag While Standing" : false,
+		"Fakelag key" : 0,
 		"Fast duck" : true,
 		"Fast plant" : true,
 		"Fix animation LOD" : true,
@@ -5943,7 +6037,7 @@
 			"paint_kit_index" : 707,
 			"paint_kit_vector_index" : 512,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 23,
 			"stickers" : 
 			[
 				{
@@ -6632,7 +6726,7 @@
 			"paint_kit_index" : 309,
 			"paint_kit_vector_index" : 390,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 1,
 			"stickers" : 
 			[
 				{
@@ -7427,7 +7521,7 @@
 			"paint_kit_index" : 624,
 			"paint_kit_vector_index" : 265,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 22,
 			"stickers" : 
 			[
 				{
@@ -7736,6 +7830,18 @@
 	],
 	"visuals" : 
 	{
+		"Bullet Beams" : 
+		{
+			"Color" : 
+			[
+				0.97663551568984985,
+				0.13691157102584839,
+				0.13691157102584839
+			],
+			"Enabled" : false,
+			"Rainbow" : false,
+			"Rainbow speed" : 0.60000002384185791
+		},
 		"Color correction" : 
 		{
 			"Blue" : 0.0,
@@ -7748,11 +7854,16 @@
 			"Yellow" : 0.0
 		},
 		"Deagle spinner" : true,
+		"Desync Indicator" : true,
+		"Fakeduck Indicator" : true,
+		"Fakelag Indicator" : true,
 		"Fov" : 0,
 		"Hit effect" : 0,
 		"Hit effect time" : 0.20000000298023224,
 		"Hit marker" : 0,
 		"Hit marker time" : 0.60000002384185791,
+		"Indicators Enabled" : true,
+		"LBY Indicator" : true,
 		"No aim punch" : true,
 		"No view punch" : true,
 		"Playermodel CT" : 4,
