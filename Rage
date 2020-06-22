@@ -55,7 +55,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -83,7 +83,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -111,7 +111,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -139,7 +139,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -167,7 +167,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -195,7 +195,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -223,7 +223,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -251,7 +251,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -279,7 +279,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -307,7 +307,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -335,7 +335,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -363,7 +363,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -391,7 +391,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -419,7 +419,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -447,7 +447,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -475,7 +475,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -503,7 +503,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -531,7 +531,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -559,7 +559,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -587,7 +587,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -615,7 +615,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -643,7 +643,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -671,7 +671,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -699,7 +699,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -727,7 +727,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -755,7 +755,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -783,7 +783,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -811,7 +811,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -839,7 +839,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -867,7 +867,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -895,7 +895,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -923,7 +923,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -951,7 +951,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -979,7 +979,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -1007,7 +1007,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -1035,7 +1035,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -1063,7 +1063,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -1091,7 +1091,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -1119,7 +1119,7 @@
 			"Standalone RCS" : false,
 			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
-			"jump check" : false
+			"jump check" : true
 		}
 	],
 	"Anti aim" : 
@@ -1317,17 +1317,17 @@
 				{
 					"Color" : 
 					[
-						0.53111624717712402,
-						0.9841269850730896,
-						0.0,
+						0.1307634711265564,
+						0.55420231819152832,
+						0.91534394025802612,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
 				"Enabled" : true,
-				"Health based" : true,
-				"Material" : 0,
+				"Health based" : false,
+				"Material" : 5,
 				"Wireframe" : false
 			},
 			{
@@ -1637,9 +1637,9 @@
 				{
 					"Color" : 
 					[
-						1.0,
-						0.99999308586120605,
-						0.99998998641967773,
+						9.9999647318327334e-07,
+						9.9998999303352321e-07,
+						9.9999999747524271e-07,
 						1.0
 					],
 					"Rainbow" : false,
@@ -1647,8 +1647,8 @@
 				},
 				"Enabled" : true,
 				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : true
+				"Material" : 1,
+				"Wireframe" : false
 			},
 			{
 				"Blinking" : false,
@@ -1656,17 +1656,17 @@
 				{
 					"Color" : 
 					[
-						0.43865877389907837,
-						0.8888888955116272,
-						0.1222810223698616,
+						0.2284361869096756,
+						0.0,
+						0.35978835821151733,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Enabled" : false,
+				"Enabled" : true,
 				"Health based" : false,
-				"Material" : 0,
+				"Material" : 10,
 				"Wireframe" : false
 			}
 		],
@@ -3735,7 +3735,7 @@
 						0.0,
 						0.0
 					],
-					"Enabled" : true,
+					"Enabled" : false,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -3753,7 +3753,7 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Enabled" : false,
+				"Enabled" : true,
 				"Eye traces" : 
 				{
 					"Color" : 
@@ -3766,7 +3766,7 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Font" : 5,
+				"Font" : 17,
 				"HP side" : 0,
 				"Head dot" : 
 				{
@@ -3837,7 +3837,7 @@
 						9.9998999303352321e-07,
 						9.9998999303352321e-07
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -3930,7 +3930,7 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Enabled" : true,
+				"Enabled" : false,
 				"Eye traces" : 
 				{
 					"Color" : 
@@ -4107,7 +4107,7 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Enabled" : true,
+				"Enabled" : false,
 				"Eye traces" : 
 				{
 					"Color" : 
@@ -5638,16 +5638,16 @@
 			{
 				"Color" : 
 				[
-					1.0,
-					1.0,
-					1.0,
-					0.60000002384185791
+					0.067523345351219177,
+					0.23044006526470184,
+					0.70899474620819092,
+					0.76190477609634399
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"healthBased" : true,
+			"healthBased" : false,
 			"style" : 0
 		},
 		{
@@ -5672,15 +5672,15 @@
 			{
 				"Color" : 
 				[
-					1.0,
-					1.0,
-					1.0,
-					1.0
+					0.0,
+					0.22172358632087708,
+					0.58201062679290771,
+					0.70370370149612427
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
-			"Enabled" : false,
+			"Enabled" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -5791,9 +5791,9 @@
 			{
 				"Color" : 
 				[
-					1.0,
-					1.0,
-					1.0,
+					0.30810612440109253,
+					0.031746041029691696,
+					0.42857146263122559,
 					1.0
 				],
 				"Rainbow" : false,
@@ -6060,7 +6060,7 @@
 			"paint_kit_index" : 707,
 			"paint_kit_vector_index" : 512,
 			"seed" : 0,
-			"stat_trak" : 124,
+			"stat_trak" : 232,
 			"stickers" : 
 			[
 				{
