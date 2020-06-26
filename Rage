@@ -3,29 +3,27 @@
 	[
 		{
 			"Aimlock" : true,
-			"Auto scope" : true,
+			"Auto scope" : false,
 			"Auto shot" : true,
-			"Between shots" : true,
-			"Bone" : 2,
+			"Between shots" : false,
+			"Bone" : 1,
 			"Enabled" : true,
 			"Fov" : 255.0,
 			"Friendly fire" : false,
 			"Ignore flash" : true,
 			"Ignore smoke" : true,
-			"Key" : 6,
+			"Key" : 1,
 			"Key mode" : 0,
-			"Killshot" : false,
+			"Killshot" : true,
 			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 0,
+			"Max shot inaccuracy" : 0.061400000005960464,
+			"Min damage" : 10,
 			"On key" : false,
 			"Recoil control X" : 0.0,
 			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
-			"Silent" : false,
+			"Silent" : true,
 			"Smooth" : 1.0,
-			"Standalone RCS" : true,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : false,
 			"jump check" : true
 		},
@@ -52,8 +50,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -80,8 +76,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -108,8 +102,58 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : true,
+			"Auto scope" : false,
+			"Auto shot" : true,
+			"Between shots" : false,
+			"Bone" : 1,
+			"Enabled" : false,
+			"Fov" : 255.0,
+			"Friendly fire" : false,
+			"Ignore flash" : true,
+			"Ignore smoke" : true,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : true,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 0.057089999318122864,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : false,
+			"Silent" : true,
+			"Smooth" : 1.0,
+			"Visible only" : false,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -136,8 +180,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -164,8 +206,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -192,8 +232,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -220,8 +258,58 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : true,
+			"Auto scope" : false,
+			"Auto shot" : true,
+			"Between shots" : true,
+			"Bone" : 1,
+			"Enabled" : false,
+			"Fov" : 255.0,
+			"Friendly fire" : false,
+			"Ignore flash" : true,
+			"Ignore smoke" : true,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : true,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 0.059229999780654907,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : false,
+			"Silent" : true,
+			"Smooth" : 1.0,
+			"Visible only" : false,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -248,8 +336,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -276,8 +362,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -304,8 +388,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -332,8 +414,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -360,8 +440,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -388,8 +466,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -416,8 +492,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -444,8 +518,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -472,8 +544,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -500,8 +570,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -528,8 +596,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -556,8 +622,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -584,8 +648,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -612,8 +674,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -640,8 +700,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -668,8 +726,6 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -696,8 +752,58 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : true,
+			"Auto scope" : true,
+			"Auto shot" : true,
+			"Between shots" : false,
+			"Bone" : 2,
+			"Enabled" : false,
+			"Fov" : 255.0,
+			"Friendly fire" : false,
+			"Ignore flash" : true,
+			"Ignore smoke" : true,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : true,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : false,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -724,9 +830,189 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : true,
+			"Auto scope" : false,
+			"Auto shot" : true,
+			"Between shots" : false,
+			"Bone" : 1,
+			"Enabled" : false,
+			"Fov" : 255.0,
+			"Friendly fire" : false,
+			"Ignore flash" : true,
+			"Ignore smoke" : true,
+			"Key" : 1,
+			"Key mode" : 0,
+			"Killshot" : true,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : false,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : true,
+			"Auto scope" : false,
+			"Auto shot" : true,
+			"Between shots" : true,
+			"Bone" : 1,
+			"Enabled" : false,
+			"Fov" : 255.0,
+			"Friendly fire" : false,
+			"Ignore flash" : true,
+			"Ignore smoke" : true,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : false,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : true,
+			"Auto scope" : true,
+			"Auto shot" : true,
+			"Between shots" : false,
+			"Bone" : 1,
+			"Enabled" : false,
+			"Fov" : 255.0,
+			"Friendly fire" : false,
+			"Ignore flash" : true,
+			"Ignore smoke" : true,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : true,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : false,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : true,
+			"Auto scope" : false,
+			"Auto shot" : true,
+			"Between shots" : false,
+			"Bone" : 1,
+			"Enabled" : false,
+			"Fov" : 255.0,
+			"Friendly fire" : false,
+			"Ignore flash" : true,
+			"Ignore smoke" : true,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : true,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 0.061400000005960464,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : false,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : true,
+			"Auto scope" : false,
+			"Auto shot" : true,
+			"Between shots" : false,
+			"Bone" : 1,
+			"Enabled" : false,
+			"Fov" : 255.0,
+			"Friendly fire" : false,
+			"Ignore flash" : true,
+			"Ignore smoke" : true,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : true,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 50,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : false,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : true,
+			"Auto scope" : false,
+			"Auto shot" : true,
+			"Between shots" : false,
+			"Bone" : 1,
+			"Enabled" : false,
+			"Fov" : 255.0,
+			"Friendly fire" : false,
+			"Ignore flash" : true,
+			"Ignore smoke" : true,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : true,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : false,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : true,
+			"Auto scope" : false,
+			"Auto shot" : true,
+			"Between shots" : false,
+			"Bone" : 1,
+			"Enabled" : false,
+			"Fov" : 255.0,
+			"Friendly fire" : false,
+			"Ignore flash" : true,
+			"Ignore smoke" : true,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : true,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : true,
+			"Smooth" : 1.0,
+			"Visible only" : false,
 			"jump check" : true
 		},
 		{
@@ -752,392 +1038,82 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		}
 	],
 	"Anti aim" : 
 	{
-		"AntiAim Mode" : 0,
-		"Body Lean" : 66.370002746582031,
-		"Enabled" : true,
-		"Inverse Yaw Key" : 6,
-		"Inverse Yaw Key Mode" : 1,
-		"Jitter Max" : 47.520000457763672,
-		"Jitter Min" : -45.939998626708984,
-		"LBY Angle" : 151.78999328613281,
-		"LBY Breaker" : true,
-		"Pitch" : true,
-		"Pitch angle" : 89.0,
-		"Yaw" : true,
-		"Yaw Real" : true,
-		"Yaw angle" : -98.209999084472656
+		"General" : 
+		{
+			"Enabled" : true,
+			"Fakewalk" : 
+			{
+				"Enabled" : true,
+				"Fakewalk Key" : 67,
+				"Fakewalk Key Mode" : 1,
+				"Fakewalk Max Choke" : 3
+			},
+			"Inverse Yaw Key" : 5,
+			"Inverse Yaw Key Mode" : 1
+		},
+		"In Air" : 
+		{
+			"Enabled" : true,
+			"LBY Breaker Angle" : 102.91000366210938,
+			"LBY Breaker Enabled" : true,
+			"Pitch Angle" : 89.0,
+			"Pitch Enabled" : true,
+			"Yaw Angle" : 178.41000366210938,
+			"Yaw Desync Enabled" : 0,
+			"Yaw Desync Jitter Max" : 100.0,
+			"Yaw Desync Jitter Min" : -100.0,
+			"Yaw Desync Mode" : 0,
+			"Yaw Desync Step" : 100.0,
+			"Yaw Enabled" : true,
+			"Yaw Fake Jitter Max" : 10.0,
+			"Yaw Fake Jitter Min" : -10.0,
+			"Yaw Fake Mode" : 0,
+			"Yaw Fake Step" : 180.0
+		},
+		"Moving" : 
+		{
+			"Enabled" : true,
+			"LBY Breaker Angle" : 100.52999877929688,
+			"LBY Breaker Enabled" : true,
+			"Pitch Angle" : 89.0,
+			"Pitch Enabled" : true,
+			"Yaw Angle" : 178.41000366210938,
+			"Yaw Desync Enabled" : 0,
+			"Yaw Desync Jitter Max" : -100.0,
+			"Yaw Desync Jitter Min" : 100.0,
+			"Yaw Desync Mode" : 0,
+			"Yaw Desync Step" : 100.0,
+			"Yaw Enabled" : true,
+			"Yaw Fake Jitter Max" : 15.930000305175781,
+			"Yaw Fake Jitter Min" : -15.930000305175781,
+			"Yaw Fake Mode" : 0,
+			"Yaw Fake Step" : 100.0
+		},
+		"Standing" : 
+		{
+			"Enabled" : true,
+			"LBY Breaker Angle" : 77.480003356933594,
+			"LBY Breaker Enabled" : true,
+			"Pitch Angle" : 89.0,
+			"Pitch Enabled" : true,
+			"Yaw Angle" : 180.0,
+			"Yaw Desync Enabled" : 0,
+			"Yaw Desync Jitter Max" : 100.0,
+			"Yaw Desync Jitter Min" : -100.0,
+			"Yaw Desync Mode" : 0,
+			"Yaw Desync Step" : 0.0,
+			"Yaw Enabled" : true,
+			"Yaw Fake Jitter Max" : 9.5600004196166992,
+			"Yaw Fake Jitter Min" : -10.0,
+			"Yaw Fake Mode" : 0,
+			"Yaw Fake Step" : 180.0
+		}
 	},
 	"Backtrack" : 
 	{
@@ -1145,7 +1121,7 @@
 		"Fake Latency" : true,
 		"Ignore smoke" : true,
 		"Latency Ammount" : 200,
-		"Recoil based fov" : true,
+		"Recoil based fov" : false,
 		"Time limit" : 200
 	},
 	"Chams" : 
@@ -1237,417 +1213,17 @@
 				{
 					"Color" : 
 					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			},
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			}
-		],
-		[
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : true,
-				"Material" : 0,
-				"Wireframe" : false
-			},
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			}
-		],
-		[
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						0.1307634711265564,
-						0.55420231819152832,
-						0.91534394025802612,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : true,
-				"Health based" : false,
-				"Material" : 5,
-				"Wireframe" : false
-			},
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			}
-		],
-		[
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						0.83644860982894897,
-						0.75436723232269287,
-						0.75436723232269287,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : true,
-				"Material" : 0,
-				"Wireframe" : false
-			},
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			}
-		],
-		[
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			},
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			}
-		],
-		[
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			},
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			}
-		],
-		[
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			},
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			}
-		],
-		[
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			},
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			}
-		],
-		[
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			},
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			}
-		],
-		[
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			},
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			}
-		],
-		[
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						9.9999647318327334e-07,
-						9.9998999303352321e-07,
 						9.9999999747524271e-07,
+						9.9998999303352321e-07,
+						9.9998999303352321e-07,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Enabled" : true,
+				"Enabled" : false,
 				"Health based" : false,
-				"Material" : 1,
+				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
@@ -1656,15 +1232,135 @@
 				{
 					"Color" : 
 					[
-						0.2284361869096756,
+						1.0,
 						0.0,
-						0.35978835821151733,
+						0.0,
+						0.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 10,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						9.9999999747524271e-07,
+						9.9998999303352321e-07,
+						9.9998999303352321e-07,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						0.47663551568984985,
+						0.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
 				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						0.72619020938873291,
+						0.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 10,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						0.23357868194580078,
+						0.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						1.0,
+						1.0,
+						0.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
 				"Health based" : false,
 				"Material" : 10,
 				"Wireframe" : false
@@ -1867,6 +1563,286 @@
 				"Enabled" : false,
 				"Health based" : false,
 				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						9.9999567737540929e-07,
+						9.9998999303352321e-07,
+						9.9999999747524271e-07,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						0.99998998641967773,
+						0.99998998641967773,
+						0.20634919404983521
+					],
+					"Rainbow" : true,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 10,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						9.9999999747524271e-07,
+						9.9998999303352321e-07,
+						9.9998999303352321e-07,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						1.0,
+						0.74766349792480469,
+						0.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 10,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						1.0,
+						0.85981297492980957,
+						0.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 10,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						9.9999999747524271e-07,
+						9.9998999303352321e-07,
+						9.9998999303352321e-07,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						0.0
+					],
+					"Rainbow" : true,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 10,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						0.42990636825561523,
+						0.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						0.99998998641967773,
+						1.0,
+						0.99999552965164185,
+						0.5
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 10,
 				"Wireframe" : false
 			}
 		],
@@ -3222,6 +3198,9 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.41999998688697815,
+				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -3399,6 +3378,9 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.41999998688697815,
+				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -3576,6 +3558,9 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.41999998688697815,
+				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -3718,11 +3703,11 @@
 				{
 					"Color" : 
 					[
-						0.023364543914794922,
-						0.61632418632507324,
-						1.0
+						0.0,
+						1.0,
+						0.94642877578735352
 					],
-					"Enabled" : true,
+					"Enabled" : false,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -3731,11 +3716,11 @@
 				{
 					"Color" : 
 					[
-						0.92990654706954956,
-						0.0,
-						0.0
+						1.0,
+						1.0,
+						1.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -3749,365 +3734,14 @@
 						1.0,
 						1.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.62000000476837158,
+				"Draw multi points only head" : false,
 				"Enabled" : true,
-				"Eye traces" : 
-				{
-					"Color" : 
-					[
-						0.95794391632080078,
-						0.13429118692874908,
-						0.13429118692874908
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Font" : 17,
-				"HP side" : 0,
-				"Head dot" : 
-				{
-					"Color" : 
-					[
-						0.96261680126190186,
-						0.83145403861999512,
-						0.26089614629745483
-					],
-					"Enabled" : true,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Health" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Health bar" : 
-				{
-					"Color" : 
-					[
-						0.09947311133146286,
-						0.99065423011779785,
-						0.037033822387456894
-					],
-					"Enabled" : true,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Max distance" : 0.0,
-				"Money" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Name" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : true,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Outline" : 
-				{
-					"Color" : 
-					[
-						9.9999999747524271e-07,
-						9.9998999303352321e-07,
-						9.9998999303352321e-07
-					],
-					"Enabled" : true,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Snaplines" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				}
-			},
-			{
-				"Active weapon" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Ammo" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Armor" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Armor bar" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Armor side" : 0,
-				"Box" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Box type" : 0,
-				"Dead ESP" : false,
-				"Distance" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Eye traces" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Font" : 29,
-				"HP side" : 0,
-				"Head dot" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : true,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Health" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Health bar" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Max distance" : 0.0,
-				"Money" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Name" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Outline" : 
-				{
-					"Color" : 
-					[
-						0.0,
-						0.0,
-						0.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Snaplines" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				}
-			},
-			{
-				"Active weapon" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : true,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Ammo" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Armor" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Armor bar" : 
-				{
-					"Color" : 
-					[
-						0.0,
-						0.55140209197998047,
-						1.0
-					],
-					"Enabled" : true,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Armor side" : 0,
-				"Box" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : true,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Box type" : 1,
-				"Dead ESP" : false,
-				"Distance" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0
-					],
-					"Enabled" : false,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
 				"Eye traces" : 
 				{
 					"Color" : 
@@ -4126,18 +3760,6 @@
 				{
 					"Color" : 
 					[
-						0.99999988079071045,
-						1.0,
-						0.99998998641967773
-					],
-					"Enabled" : true,
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Health" : 
-				{
-					"Color" : 
-					[
 						1.0,
 						1.0,
 						1.0
@@ -4146,12 +3768,24 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Health" : 
+				{
+					"Color" : 
+					[
+						0.17857146263122559,
+						1.0,
+						0.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
 				"Health bar" : 
 				{
 					"Color" : 
 					[
-						0.360981285572052,
-						0.96261680126190186,
+						0.37383174896240234,
+						1.0,
 						0.0
 					],
 					"Enabled" : true,
@@ -4167,7 +3801,367 @@
 						1.0,
 						1.0
 					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
 					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Active weapon" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Ammo" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						1.0,
+						0.83177566528320313
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor bar" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						1.0,
+						0.88690447807312012
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor side" : 0,
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						0.99998998641967773,
+						0.99998998641967773
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 1,
+				"Dead ESP" : false,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.41999998688697815,
+				"Draw multi points only head" : false,
+				"Enabled" : true,
+				"Eye traces" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Font" : 19,
+				"HP side" : 0,
+				"Head dot" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						1.0,
+						0.85981297492980957
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health" : 
+				{
+					"Color" : 
+					[
+						0.26190483570098877,
+						1.0,
+						0.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health bar" : 
+				{
+					"Color" : 
+					[
+						0.26190483570098877,
+						1.0,
+						0.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Max distance" : 0.0,
+				"Money" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Active weapon" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Ammo" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						1.0,
+						0.88690471649169922
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor bar" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						1.0,
+						0.85714292526245117
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor side" : 0,
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 1,
+				"Dead ESP" : false,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.41999998688697815,
+				"Draw multi points only head" : false,
+				"Enabled" : true,
+				"Eye traces" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Font" : 19,
+				"HP side" : 0,
+				"Head dot" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health" : 
+				{
+					"Color" : 
+					[
+						0.29166662693023682,
+						1.0,
+						0.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health bar" : 
+				{
+					"Color" : 
+					[
+						0.28971970081329346,
+						1.0,
+						0.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Max distance" : 0.0,
+				"Money" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -4286,7 +4280,7 @@
 						1.0,
 						1.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -4299,12 +4293,12 @@
 						1.0,
 						1.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Enabled" : false,
-				"Font" : 29,
+				"Enabled" : true,
+				"Font" : 19,
 				"Max distance" : 0.0,
 				"Name" : 
 				{
@@ -4314,7 +4308,7 @@
 						1.0,
 						1.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -4326,7 +4320,7 @@
 						0.0,
 						0.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -4550,7 +4544,7 @@
 						1.0,
 						1.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -4563,12 +4557,12 @@
 						1.0,
 						1.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Enabled" : false,
-				"Font" : 29,
+				"Enabled" : true,
+				"Font" : 19,
 				"Max distance" : 0.0,
 				"Name" : 
 				{
@@ -4578,7 +4572,7 @@
 						1.0,
 						1.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -4590,7 +4584,7 @@
 						0.0,
 						0.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -4682,7 +4676,7 @@
 						1.0,
 						1.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -4695,12 +4689,12 @@
 						1.0,
 						1.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Enabled" : false,
-				"Font" : 29,
+				"Enabled" : true,
+				"Font" : 19,
 				"Max distance" : 0.0,
 				"Name" : 
 				{
@@ -4710,7 +4704,7 @@
 						1.0,
 						1.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -4722,7 +4716,7 @@
 						0.0,
 						0.0
 					],
-					"Enabled" : false,
+					"Enabled" : true,
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
@@ -4844,7 +4838,7 @@
 					1.0,
 					1.0
 				],
-				"Enabled" : true,
+				"Enabled" : false,
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
@@ -4879,14 +4873,17 @@
 		"Animated clan tag" : false,
 		"Anti AFK kick" : false,
 		"Aspect Ratio" : 0.0,
-		"Auto accept" : true,
+		"Auto accept" : false,
 		"Auto pistol" : true,
-		"Auto reload" : true,
+		"Auto reload" : false,
 		"Auto strafe" : true,
 		"Auto strafe style" : 2,
-		"Ban color" : 6,
-		"Ban text" : "Cheater has been permanently banned from official CS:GO servers.",
-		"Bomb Damage Indicator" : true,
+		"Autozeus" : true,
+		"Autozeus BAIM Only" : false,
+		"Autozeus Max Pen Dist" : 26,
+		"Ban color" : 1,
+		"Ban text" : "professional noname",
+		"Bomb Damage Indicator" : false,
 		"Bomb timer" : 
 		{
 			"Color" : 
@@ -4908,31 +4905,31 @@
 		"Disable HUD blur" : false,
 		"Disable model occlusion" : false,
 		"Edge Jump" : false,
-		"Edge Jump Key" : 18,
+		"Edge Jump Key" : 0,
 		"Fake Duck" : true,
-		"Fake Duck Key" : 0,
-		"Fake prime" : true,
-		"Fakelag In Air" : false,
+		"Fake Duck Key" : 88,
+		"Fake prime" : false,
+		"Fakelag In Air" : true,
 		"Fakelag Mode" : 0,
-		"Fakelag Ticks" : 0,
-		"Fakelag While Moving" : false,
-		"Fakelag While Shooting" : false,
-		"Fakelag While Standing" : false,
+		"Fakelag Ticks" : 16,
+		"Fakelag While Moving" : true,
+		"Fakelag While Shooting" : true,
+		"Fakelag While Standing" : true,
 		"Fakelag key" : 0,
 		"Fast duck" : true,
 		"Fast plant" : true,
-		"Fix animation LOD" : true,
-		"Fix bone matrix" : true,
+		"Fix animation LOD" : false,
+		"Fix bone matrix" : false,
 		"Fix movement" : true,
-		"Fix tablet signal" : true,
+		"Fix tablet signal" : false,
 		"Grenade predict" : true,
 		"Hit sound" : 2,
 		"Kill message" : false,
-		"Kill message string" : "discord.gg/aAcWPff ",
-		"Kill sound" : 4,
+		"Kill message string" : "1",
+		"Kill sound" : 0,
 		"Max angle delta" : 255.0,
 		"Menu key" : 45,
-		"Moonwalk" : true,
+		"Moonwalk" : false,
 		"Name stealer" : true,
 		"Prepare revolver" : true,
 		"Prepare revolver key" : 0,
@@ -4940,19 +4937,19 @@
 		{
 			"Enabled" : false,
 			"Mode" : 0,
-			"No Title Bar" : true,
+			"No Title Bar" : false,
 			"Only During Freeze Time" : false,
-			"Show Prices" : true
+			"Show Prices" : false
 		},
-		"Quick healthshot key" : 0,
+		"Quick healthshot key" : 88,
 		"Quick reload" : true,
 		"Radar hack" : true,
-		"Recoil crosshair" : true,
+		"Recoil crosshair" : false,
 		"Reveal money" : true,
 		"Reveal ranks" : true,
 		"Reveal suspect" : true,
-		"Slowwalk" : false,
-		"Slowwalk key" : 18,
+		"Slowwalk" : true,
+		"Slowwalk key" : 16,
 		"Sniper crosshair" : true,
 		"Spectator list" : 
 		{
@@ -4966,7 +4963,7 @@
 			"Rainbow" : false,
 			"Rainbow speed" : 0.60000002384185791
 		},
-		"Sv pure bypass" : true,
+		"Sv pure bypass" : false,
 		"Watermark" : 
 		{
 			"Color" : 
@@ -4984,17 +4981,17 @@
 	{
 		"Abusive Communications" : false,
 		"Aim Hacking" : true,
-		"Delay" : 1,
+		"Delay" : 3,
 		"Enabled" : false,
 		"Griefing" : false,
 		"Other Hacking" : true,
-		"Rounds" : 1000,
-		"Target" : 2,
+		"Rounds" : 1,
+		"Target" : 0,
 		"Wall Hacking" : true
 	},
 	"Sound" : 
 	{
-		"Chicken volume" : 0,
+		"Chicken volume" : 100,
 		"Players" : 
 		[
 			{
@@ -5021,16 +5018,16 @@
 	[
 		{
 			"Burst Time" : 0.0,
-			"Enabled" : false,
+			"Enabled" : true,
 			"Friendly fire" : false,
 			"Hitgroup" : 0,
-			"Ignore flash" : true,
-			"Ignore smoke" : true,
-			"Key" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 6,
 			"Killshot" : false,
 			"Min damage" : 1,
-			"On key" : false,
-			"Scoped only" : true,
+			"On key" : true,
+			"Scoped only" : false,
 			"Shot delay" : 0
 		},
 		{
@@ -5587,100 +5584,32 @@
 			{
 				"Color" : 
 				[
+					0.3177570104598999,
 					1.0,
-					1.0,
-					1.0,
-					1.0
-				],
-				"Rainbow" : false,
-				"Rainbow speed" : 0.60000002384185791
-			},
-			"Enabled" : false,
-			"healthBased" : false,
-			"style" : 0
-		},
-		{
-			"Color" : 
-			{
-				"Color" : 
-				[
-					1.0,
-					1.0,
-					1.0,
-					1.0
-				],
-				"Rainbow" : false,
-				"Rainbow speed" : 0.60000002384185791
-			},
-			"Enabled" : false,
-			"healthBased" : false,
-			"style" : 0
-		},
-		{
-			"Color" : 
-			{
-				"Color" : 
-				[
-					1.0,
-					1.0,
-					1.0,
-					1.0
-				],
-				"Rainbow" : false,
-				"Rainbow speed" : 0.60000002384185791
-			},
-			"Enabled" : false,
-			"healthBased" : false,
-			"style" : 0
-		},
-		{
-			"Color" : 
-			{
-				"Color" : 
-				[
-					0.067523345351219177,
-					0.23044006526470184,
-					0.70899474620819092,
-					0.76190477609634399
-				],
-				"Rainbow" : false,
-				"Rainbow speed" : 0.60000002384185791
-			},
-			"Enabled" : false,
-			"healthBased" : false,
-			"style" : 0
-		},
-		{
-			"Color" : 
-			{
-				"Color" : 
-				[
-					1.0,
-					1.0,
-					1.0,
-					1.0
-				],
-				"Rainbow" : false,
-				"Rainbow speed" : 0.60000002384185791
-			},
-			"Enabled" : false,
-			"healthBased" : false,
-			"style" : 0
-		},
-		{
-			"Color" : 
-			{
-				"Color" : 
-				[
 					0.0,
-					0.22172358632087708,
-					0.58201062679290771,
-					0.70370370149612427
+					0.68999999761581421
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
-			"Enabled" : true,
+			"Enabled" : false,
+			"healthBased" : false,
+			"style" : 1
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -5690,15 +5619,83 @@
 				"Color" : 
 				[
 					1.0,
-					0.074766397476196289,
-					0.074766397476196289,
+					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
-			"Enabled" : true,
-			"healthBased" : true,
+			"Enabled" : false,
+			"healthBased" : false,
+			"style" : 0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					0.0,
+					0.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"healthBased" : false,
+			"style" : 0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					0.30841124057769775,
+					0.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"healthBased" : false,
+			"style" : 0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					0.42990636825561523,
+					0.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"healthBased" : false,
+			"style" : 0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"healthBased" : false,
 			"style" : 0
 		},
 		{
@@ -5748,9 +5745,60 @@
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
-			"Enabled" : true,
-			"healthBased" : true,
+			"Enabled" : false,
+			"healthBased" : false,
 			"style" : 0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"healthBased" : false,
+			"style" : 0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"healthBased" : false,
+			"style" : 0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					0.3452378511428833,
+					1.0,
+					0.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"healthBased" : false,
+			"style" : 1
 		},
 		{
 			"Color" : 
@@ -5791,66 +5839,32 @@
 			{
 				"Color" : 
 				[
-					0.30810612440109253,
-					0.031746041029691696,
-					0.42857146263122559,
+					1.0,
+					0.0,
+					0.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : true,
+			"healthBased" : false,
+			"style" : 1
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"healthBased" : false,
-			"style" : 0
-		},
-		{
-			"Color" : 
-			{
-				"Color" : 
-				[
-					1.0,
-					1.0,
-					1.0,
-					0.47999998927116394
-				],
-				"Rainbow" : false,
-				"Rainbow speed" : 0.60000002384185791
-			},
-			"Enabled" : true,
-			"healthBased" : false,
-			"style" : 0
-		},
-		{
-			"Color" : 
-			{
-				"Color" : 
-				[
-					0.97196263074874878,
-					5.7933487340733336e-08,
-					5.7933487340733336e-08,
-					1.0
-				],
-				"Rainbow" : false,
-				"Rainbow speed" : 0.60000002384185791
-			},
-			"Enabled" : true,
-			"healthBased" : false,
-			"style" : 0
-		},
-		{
-			"Color" : 
-			{
-				"Color" : 
-				[
-					0.98130840063095093,
-					0.082539975643157959,
-					0.082539975643157959,
-					1.0
-				],
-				"Rainbow" : false,
-				"Rainbow speed" : 0.60000002384185791
-			},
-			"Enabled" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -5876,23 +5890,6 @@
 			{
 				"Color" : 
 				[
-					0.044545430690050125,
-					0.36909335851669312,
-					0.95327103137969971,
-					1.0
-				],
-				"Rainbow" : false,
-				"Rainbow speed" : 0.60000002384185791
-			},
-			"Enabled" : true,
-			"healthBased" : false,
-			"style" : 0
-		},
-		{
-			"Color" : 
-			{
-				"Color" : 
-				[
 					1.0,
 					1.0,
 					1.0,
@@ -5910,15 +5907,15 @@
 			{
 				"Color" : 
 				[
-					0.86036229133605957,
-					0.99532711505889893,
-					0.088370166718959808,
+					1.0,
+					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
-			"Enabled" : true,
+			"Enabled" : false,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -5949,12 +5946,12 @@
 			"definition_override_index" : 508,
 			"definition_override_vector_index" : 10,
 			"definition_vector_index" : 0,
-			"entity_quality_index" : 12,
-			"entity_quality_vector_index" : 10,
+			"entity_quality_index" : 6,
+			"entity_quality_vector_index" : 5,
 			"paint_kit_index" : 562,
 			"paint_kit_vector_index" : 453,
 			"seed" : 0,
-			"stat_trak" : 2,
+			"stat_trak" : 1348,
 			"stickers" : 
 			[
 				{
@@ -5999,13 +5996,13 @@
 			"Enabled" : true,
 			"custom_name" : "",
 			"definition_index" : 5028,
-			"definition_override_index" : 5027,
-			"definition_override_vector_index" : 1,
+			"definition_override_index" : 5030,
+			"definition_override_vector_index" : 4,
 			"definition_vector_index" : 1,
-			"entity_quality_index" : 12,
-			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 10060,
-			"paint_kit_vector_index" : 8,
+			"entity_quality_index" : 6,
+			"entity_quality_vector_index" : 5,
+			"paint_kit_index" : 10048,
+			"paint_kit_vector_index" : 47,
 			"seed" : 0,
 			"stat_trak" : 0,
 			"stickers" : 
@@ -6049,18 +6046,18 @@
 			"wear" : 1.1754943508222875e-38
 		},
 		{
-			"Enabled" : true,
+			"Enabled" : false,
 			"custom_name" : "",
 			"definition_index" : 7,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
 			"definition_vector_index" : 2,
-			"entity_quality_index" : 12,
-			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 707,
-			"paint_kit_vector_index" : 512,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 232,
+			"stat_trak" : 0,
 			"stickers" : 
 			[
 				{
@@ -6163,61 +6160,8 @@
 			"definition_vector_index" : 4,
 			"entity_quality_index" : 12,
 			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 279,
-			"paint_kit_vector_index" : 37,
-			"seed" : 0,
-			"stat_trak" : 8,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
+			"paint_kit_index" : 344,
+			"paint_kit_vector_index" : 253,
 			"seed" : 0,
 			"stat_trak" : 0,
 			"stickers" : 
@@ -6263,288 +6207,23 @@
 		{
 			"Enabled" : true,
 			"custom_name" : "",
-			"definition_index" : 1,
+			"definition_index" : 63,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 6,
-			"entity_quality_index" : 12,
-			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 37,
-			"paint_kit_vector_index" : 83,
+			"definition_vector_index" : 5,
+			"entity_quality_index" : 9,
+			"entity_quality_vector_index" : 8,
+			"paint_kit_index" : 643,
+			"paint_kit_vector_index" : 807,
 			"seed" : 0,
-			"stat_trak" : 10,
+			"stat_trak" : 1337,
 			"stickers" : 
 			[
 				{
 					"kit" : 0,
 					"kit_vector_index" : 0,
 					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
+					"scale" : 1.003000020980835,
 					"wear" : 1.1754943508222875e-38
 				},
 				{
@@ -6740,16 +6419,970 @@
 		{
 			"Enabled" : true,
 			"custom_name" : "",
-			"definition_index" : 16,
+			"definition_index" : 3,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 15,
+			"definition_vector_index" : 9,
+			"entity_quality_index" : 9,
+			"entity_quality_vector_index" : 8,
+			"paint_kit_index" : 660,
+			"paint_kit_vector_index" : 396,
+			"seed" : 0,
+			"stat_trak" : 1337,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 11,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 10,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : true,
+			"custom_name" : "",
+			"definition_index" : 64,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 27,
 			"entity_quality_index" : 12,
 			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 309,
-			"paint_kit_vector_index" : 390,
+			"paint_kit_index" : 701,
+			"paint_kit_vector_index" : 347,
 			"seed" : 0,
-			"stat_trak" : 45,
+			"stat_trak" : 1343,
 			"stickers" : 
 			[
 				{
@@ -6844,654 +7477,18 @@
 			"wear" : 1.1754943508222875e-38
 		},
 		{
-			"Enabled" : false,
+			"Enabled" : true,
 			"custom_name" : "",
-			"definition_index" : 1,
+			"definition_index" : 38,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
+			"definition_vector_index" : 29,
+			"entity_quality_index" : 12,
+			"entity_quality_vector_index" : 10,
+			"paint_kit_index" : 597,
+			"paint_kit_vector_index" : 92,
 			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 1581,
 			"stickers" : 
 			[
 				{
@@ -7544,7 +7541,7 @@
 			"paint_kit_index" : 624,
 			"paint_kit_vector_index" : 265,
 			"seed" : 0,
-			"stat_trak" : 24,
+			"stat_trak" : 1468,
 			"stickers" : 
 			[
 				{
@@ -7588,10 +7585,10 @@
 		{
 			"Enabled" : false,
 			"custom_name" : "",
-			"definition_index" : 39,
+			"definition_index" : 1,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 31,
+			"definition_vector_index" : 0,
 			"entity_quality_index" : 0,
 			"entity_quality_vector_index" : 0,
 			"paint_kit_index" : 0,
@@ -7857,9 +7854,9 @@
 		{
 			"Color" : 
 			[
-				0.97663551568984985,
-				0.13691157102584839,
-				0.13691157102584839
+				0.0,
+				1.0,
+				0.42045474052429199
 			],
 			"Enabled" : false,
 			"Rainbow" : false,
@@ -7880,66 +7877,65 @@
 		"Desync Indicator" : true,
 		"Fakeduck Indicator" : true,
 		"Fakelag Indicator" : true,
-		"Fov" : 0,
+		"Fov" : 10,
 		"Hit effect" : 0,
-		"Hit effect time" : 0.20000000298023224,
-		"Hit marker" : 0,
-		"Hit marker time" : 0.60000002384185791,
+		"Hit effect time" : 0.55000001192092896,
+		"Hit marker" : 1,
+		"Hit marker time" : 0.55000001192092896,
 		"Indicators Enabled" : true,
 		"LBY Indicator" : true,
 		"No aim punch" : true,
 		"No view punch" : true,
 		"No zoom" : true,
-		"Playermodel CT" : 4,
-		"Playermodel T" : 16,
+		"Playermodel CT" : 1,
+		"Playermodel T" : 13,
 		"Screen effect" : 0,
 		"Sky" : 
 		{
 			"Color" : 
 			[
-				0.58039218187332153,
-				0.054901964962482452,
-				0.76078438758850098
+				0.9999922513961792,
+				0.99998998641967773,
+				1.0
 			],
-			"Enabled" : true,
+			"Enabled" : false,
 			"Rainbow" : false,
 			"Rainbow speed" : 0.60000002384185791
 		},
-		"Thirdperson Mode" : 2,
 		"World" : 
 		{
 			"Color" : 
 			[
-				0.45349502563476563,
-				0.057166576385498047,
-				0.55607473850250244
+				0.25700822472572327,
+				0.25700676441192627,
+				0.25700932741165161
 			],
 			"Enabled" : true,
 			"Rainbow" : false,
 			"Rainbow speed" : 0.60000002384185791
 		},
 		"Zoom" : false,
-		"Zoom key" : 6,
-		"brightness" : 0.8399999737739563,
-		"disablePostProcessing" : true,
+		"Zoom key" : 67,
+		"brightness" : 0.0,
+		"disablePostProcessing" : false,
 		"farZ" : 0,
 		"flashReduction" : 100,
-		"inverseRagdollGravity" : false,
-		"no3dSky" : true,
+		"inverseRagdollGravity" : true,
+		"no3dSky" : false,
 		"noBlur" : true,
-		"noFog" : true,
-		"noGrass" : true,
+		"noFog" : false,
+		"noGrass" : false,
 		"noHands" : false,
 		"noScopeOverlay" : true,
 		"noShadows" : false,
 		"noSleeves" : false,
 		"noSmoke" : false,
 		"noWeapons" : false,
-		"skybox" : 1,
+		"skybox" : 0,
 		"thirdperson" : true,
-		"thirdpersonDistance" : 272,
-		"thirdpersonKey" : 34,
-		"viewmodelFov" : 0,
+		"thirdpersonDistance" : 199,
+		"thirdpersonKey" : 86,
+		"viewmodelFov" : 29,
 		"wireframeSmoke" : true
 	}
 }
