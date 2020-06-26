@@ -6,13 +6,13 @@
 			"Auto scope" : false,
 			"Auto shot" : false,
 			"Between shots" : false,
-			"Bone" : 3,
-			"Enabled" : false,
-			"Fov" : 3.5699999332427979,
+			"Bone" : 2,
+			"Enabled" : true,
+			"Fov" : 1.00,
 			"Friendly fire" : false,
 			"Ignore flash" : true,
 			"Ignore smoke" : false,
-			"Key" : 16,
+			"Key" : 6,
 			"Key mode" : 0,
 			"Killshot" : false,
 			"Max aim inaccuracy" : 1.0,
@@ -22,11 +22,10 @@
 			"Recoil control X" : 0.0,
 			"Recoil control Y" : 0.0,
 			"Scoped only" : true,
-			"Silent" : true,
-			"Smooth" : 1.0,
-			"Standalone RCS" : true,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Silent" : false,
+			"Smooth" : 17.649999618530273,
+			"Visible only" : false,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -51,9 +50,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -78,9 +76,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -105,9 +102,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -132,9 +128,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -159,9 +154,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -186,9 +180,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -213,9 +206,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -240,9 +232,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -267,9 +258,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -294,9 +284,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -321,9 +310,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -348,9 +336,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -375,9 +362,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -402,9 +388,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -429,9 +414,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -456,9 +440,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -483,9 +466,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -510,9 +492,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -537,9 +518,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -564,9 +544,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -591,9 +570,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -618,9 +596,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -645,9 +622,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -672,9 +648,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -699,9 +674,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -726,9 +700,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -753,9 +726,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -780,9 +752,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -807,9 +778,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -834,9 +804,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -861,9 +830,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -888,9 +856,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -915,9 +882,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -942,9 +908,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -969,9 +934,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -996,9 +960,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -1023,9 +986,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -1050,9 +1012,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -1077,35 +1038,102 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Standalone RCS" : false,
-			"Standalone RCS Ignore Shots" : 0,
-			"Visible only" : true
+			"Visible only" : true,
+			"jump check" : true
 		}
 	],
 	"Anti aim" : 
 	{
-		"Enabled" : false,
-		"Pitch" : true,
-		"Pitch angle" : 87.580001831054688,
-		"Yaw" : true
+		"General" : 
+		{
+			"Enabled" : false,
+			"Fakewalk" : 
+			{
+				"Enabled" : false,
+				"Fakewalk Key" : 0,
+				"Fakewalk Key Mode" : 0,
+				"Fakewalk Max Choke" : 3
+			},
+			"Inverse Yaw Key" : 0,
+			"Inverse Yaw Key Mode" : 0
+		},
+		"In Air" : 
+		{
+			"Enabled" : false,
+			"LBY Breaker Angle" : 0.0,
+			"LBY Breaker Enabled" : false,
+			"Pitch Angle" : 0.0,
+			"Pitch Enabled" : false,
+			"Yaw Angle" : 0.0,
+			"Yaw Desync Enabled" : 0,
+			"Yaw Desync Jitter Max" : 0.0,
+			"Yaw Desync Jitter Min" : 0.0,
+			"Yaw Desync Mode" : 0,
+			"Yaw Desync Step" : 0.0,
+			"Yaw Enabled" : false,
+			"Yaw Fake Jitter Max" : 0.0,
+			"Yaw Fake Jitter Min" : 0.0,
+			"Yaw Fake Mode" : 0,
+			"Yaw Fake Step" : 0.0
+		},
+		"Moving" : 
+		{
+			"Enabled" : false,
+			"LBY Breaker Angle" : 0.0,
+			"LBY Breaker Enabled" : false,
+			"Pitch Angle" : 0.0,
+			"Pitch Enabled" : false,
+			"Yaw Angle" : 0.0,
+			"Yaw Desync Enabled" : 0,
+			"Yaw Desync Jitter Max" : 0.0,
+			"Yaw Desync Jitter Min" : 0.0,
+			"Yaw Desync Mode" : 0,
+			"Yaw Desync Step" : 0.0,
+			"Yaw Enabled" : false,
+			"Yaw Fake Jitter Max" : 0.0,
+			"Yaw Fake Jitter Min" : 0.0,
+			"Yaw Fake Mode" : 0,
+			"Yaw Fake Step" : 0.0
+		},
+		"Standing" : 
+		{
+			"Enabled" : false,
+			"LBY Breaker Angle" : 0.0,
+			"LBY Breaker Enabled" : false,
+			"Pitch Angle" : 0.0,
+			"Pitch Enabled" : false,
+			"Yaw Angle" : 0.0,
+			"Yaw Desync Enabled" : 0,
+			"Yaw Desync Jitter Max" : 0.0,
+			"Yaw Desync Jitter Min" : 0.0,
+			"Yaw Desync Mode" : 0,
+			"Yaw Desync Step" : 0.0,
+			"Yaw Enabled" : false,
+			"Yaw Fake Jitter Max" : 0.0,
+			"Yaw Fake Jitter Min" : 0.0,
+			"Yaw Fake Mode" : 0,
+			"Yaw Fake Step" : 0.0
+		}
 	},
 	"Backtrack" : 
 	{
 		"Enabled" : true,
+		"Fake Latency" : false,
 		"Ignore smoke" : true,
+		"Latency Ammount" : 200,
 		"Recoil based fov" : false,
-		"Time limit" : 200
+		"Time limit" : 108
 	},
 	"Chams" : 
 	[
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1119,12 +1147,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1140,12 +1168,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1159,12 +1187,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1180,12 +1208,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1199,12 +1227,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1220,12 +1248,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1239,12 +1267,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1260,14 +1288,14 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
-						1.0,
-						1.0,
+						0.020940100774168968,
+						0.57435572147369385,
+						0.98941797018051147,
 						1.0
 					],
 					"Rainbow" : false,
@@ -1279,12 +1307,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1300,12 +1328,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1319,12 +1347,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1340,12 +1368,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1359,12 +1387,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1380,12 +1408,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1399,12 +1427,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1420,12 +1448,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1439,12 +1467,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1460,12 +1488,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1479,12 +1507,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1500,12 +1528,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1519,12 +1547,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1540,12 +1568,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1559,12 +1587,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1580,12 +1608,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1599,12 +1627,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1620,12 +1648,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1639,12 +1667,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1660,12 +1688,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1679,12 +1707,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1700,12 +1728,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1719,12 +1747,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1740,12 +1768,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1759,12 +1787,12 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1780,12 +1808,12 @@
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -1799,12 +1827,92 @@
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
 					"Color" : 
 					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
 						1.0,
 						1.0,
 						1.0
@@ -3090,6 +3198,9 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.41999998688697815,
+				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -3267,6 +3378,9 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.41999998688697815,
+				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -3444,6 +3558,9 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.41999998688697815,
+				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -3621,7 +3738,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Enabled" : true,
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.41999998688697815,
+				"Draw multi points only head" : false,
+				"Enabled" : false,
 				"Eye traces" : 
 				{
 					"Color" : 
@@ -3798,6 +3918,9 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.41999998688697815,
+				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -3975,6 +4098,9 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Draw multi points" : false,
+				"Draw multi points expansion" : 0.41999998688697815,
+				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -4751,6 +4877,10 @@
 		"Auto pistol" : true,
 		"Auto reload" : true,
 		"Auto strafe" : true,
+		"Auto strafe style" : 0,
+		"Autozeus" : false,
+		"Autozeus BAIM Only" : false,
+		"Autozeus Max Pen Dist" : 0,
 		"Ban color" : 6,
 		"Ban text" : "Cheater has been permanently banned from official CS:GO servers.",
 		"Bomb Damage Indicator" : true,
@@ -4767,8 +4897,6 @@
 			"Rainbow speed" : 0.60000002384185791
 		},
 		"Bunny hop" : true,
-		"Choked packets" : 0,
-		"Choked packets key" : 0,
 		"Clan tag" : "",
 		"Clock tag" : false,
 		"Custom Hit Sound" : "",
@@ -4778,7 +4906,16 @@
 		"Disable model occlusion" : false,
 		"Edge Jump" : false,
 		"Edge Jump Key" : 18,
+		"Fake Duck" : false,
+		"Fake Duck Key" : 0,
 		"Fake prime" : true,
+		"Fakelag In Air" : false,
+		"Fakelag Mode" : 0,
+		"Fakelag Ticks" : 0,
+		"Fakelag While Moving" : false,
+		"Fakelag While Shooting" : false,
+		"Fakelag While Standing" : false,
+		"Fakelag key" : 0,
 		"Fast duck" : true,
 		"Fast plant" : true,
 		"Fix animation LOD" : true,
@@ -4826,6 +4963,7 @@
 			"Rainbow" : false,
 			"Rainbow speed" : 0.60000002384185791
 		},
+		"Sv pure bypass" : true,
 		"Watermark" : 
 		{
 			"Color" : 
@@ -5448,16 +5586,15 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5466,16 +5603,15 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5484,16 +5620,15 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5502,16 +5637,15 @@
 				[
 					1.0,
 					1.0,
-					1.0
+					1.0,
+					0.6600000262260437
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
-			"Enabled" : true,
-			"alpha" : 0.6600000262260437,
+			"Enabled" : false,
 			"healthBased" : true,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5520,16 +5654,15 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5538,16 +5671,15 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5556,22 +5688,22 @@
 				[
 					1.0,
 					0.074766397476196289,
-					0.074766397476196289
+					0.074766397476196289,
+					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : true,
-			"alpha" : 1.0,
 			"healthBased" : true,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
 			{
 				"Color" : 
 				[
+					1.0,
 					1.0,
 					1.0,
 					1.0
@@ -5580,16 +5712,15 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
 			{
 				"Color" : 
 				[
+					1.0,
 					1.0,
 					1.0,
 					1.0
@@ -5598,16 +5729,15 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
 			{
 				"Color" : 
 				[
+					1.0,
 					1.0,
 					1.0,
 					1.0
@@ -5616,16 +5746,15 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : true,
-			"alpha" : 1.0,
 			"healthBased" : true,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
 			{
 				"Color" : 
 				[
+					1.0,
 					1.0,
 					1.0,
 					1.0
@@ -5634,16 +5763,15 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
 			{
 				"Color" : 
 				[
+					1.0,
 					1.0,
 					1.0,
 					1.0
@@ -5652,16 +5780,15 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
 			{
 				"Color" : 
 				[
+					1.0,
 					1.0,
 					1.0,
 					1.0
@@ -5670,10 +5797,8 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5682,16 +5807,15 @@
 				[
 					1.0,
 					1.0,
-					1.0
+					1.0,
+					0.47999998927116394
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : true,
-			"alpha" : 0.47999998927116394,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5700,16 +5824,15 @@
 				[
 					0.97196263074874878,
 					5.7933487340733336e-08,
-					5.7933487340733336e-08
+					5.7933487340733336e-08,
+					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : true,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5718,16 +5841,15 @@
 				[
 					0.98130840063095093,
 					0.082539975643157959,
-					0.082539975643157959
+					0.082539975643157959,
+					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : true,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5736,16 +5858,15 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5754,16 +5875,15 @@
 				[
 					0.044545430690050125,
 					0.36909335851669312,
-					0.95327103137969971
+					0.95327103137969971,
+					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : true,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5772,16 +5892,15 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5790,16 +5909,15 @@
 				[
 					0.86036229133605957,
 					0.99532711505889893,
-					0.088370166718959808
+					0.088370166718959808,
+					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : true,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5808,16 +5926,15 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		}
 	],
 	"skinChanger" : 
@@ -5826,13 +5943,13 @@
 			"Enabled" : true,
 			"custom_name" : "",
 			"definition_index" : 42,
-			"definition_override_index" : 515,
-			"definition_override_vector_index" : 14,
+			"definition_override_index" : 500,
+			"definition_override_vector_index" : 1,
 			"definition_vector_index" : 0,
 			"entity_quality_index" : 12,
 			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 12,
-			"paint_kit_vector_index" : 197,
+			"paint_kit_index" : 572,
+			"paint_kit_vector_index" : 332,
 			"seed" : 0,
 			"stat_trak" : 0,
 			"stickers" : 
@@ -5940,7 +6057,7 @@
 			"paint_kit_index" : 707,
 			"paint_kit_vector_index" : 512,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 9,
 			"stickers" : 
 			[
 				{
@@ -6565,16 +6682,16 @@
 			"wear" : 1.1754943508222875e-38
 		},
 		{
-			"Enabled" : false,
+			"Enabled" : true,
 			"custom_name" : "",
-			"definition_index" : 1,
+			"definition_index" : 60,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
+			"definition_vector_index" : 14,
+			"entity_quality_index" : 12,
+			"entity_quality_vector_index" : 10,
+			"paint_kit_index" : 548,
+			"paint_kit_vector_index" : 150,
 			"seed" : 0,
 			"stat_trak" : 0,
 			"stickers" : 
@@ -7095,16 +7212,16 @@
 			"wear" : 1.1754943508222875e-38
 		},
 		{
-			"Enabled" : false,
+			"Enabled" : true,
 			"custom_name" : "",
-			"definition_index" : 1,
+			"definition_index" : 36,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
+			"definition_vector_index" : 24,
+			"entity_quality_index" : 12,
+			"entity_quality_vector_index" : 10,
+			"paint_kit_index" : 678,
+			"paint_kit_vector_index" : 661,
 			"seed" : 0,
 			"stat_trak" : 0,
 			"stickers" : 
@@ -7424,7 +7541,7 @@
 			"paint_kit_index" : 624,
 			"paint_kit_vector_index" : 265,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 7,
 			"stickers" : 
 			[
 				{
@@ -7633,8 +7750,8 @@
 			"definition_vector_index" : 34,
 			"entity_quality_index" : 12,
 			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 653,
-			"paint_kit_vector_index" : 508,
+			"paint_kit_index" : 504,
+			"paint_kit_vector_index" : 432,
 			"seed" : 0,
 			"stat_trak" : 0,
 			"stickers" : 
@@ -7733,6 +7850,18 @@
 	],
 	"visuals" : 
 	{
+		"Bullet Beams" : 
+		{
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0
+			],
+			"Enabled" : false,
+			"Rainbow" : false,
+			"Rainbow speed" : 0.60000002384185791
+		},
 		"Color correction" : 
 		{
 			"Blue" : 0.0,
@@ -7745,13 +7874,19 @@
 			"Yellow" : 0.0
 		},
 		"Deagle spinner" : false,
+		"Desync Indicator" : false,
+		"Fakeduck Indicator" : false,
+		"Fakelag Indicator" : false,
 		"Fov" : 0,
 		"Hit effect" : 0,
 		"Hit effect time" : 0.60000002384185791,
 		"Hit marker" : 0,
 		"Hit marker time" : 0.60000002384185791,
+		"Indicators Enabled" : false,
+		"LBY Indicator" : false,
 		"No aim punch" : false,
 		"No view punch" : false,
+		"No zoom" : false,
 		"Playermodel CT" : 4,
 		"Playermodel T" : 16,
 		"Screen effect" : 0,
@@ -7784,7 +7919,7 @@
 		"brightness" : 0.0,
 		"disablePostProcessing" : false,
 		"farZ" : 0,
-		"flashReduction" : 0,
+		"flashReduction" : 100,
 		"inverseRagdollGravity" : false,
 		"no3dSky" : false,
 		"noBlur" : false,
