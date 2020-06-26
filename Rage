@@ -1052,7 +1052,7 @@
 				"Enabled" : true,
 				"Fakewalk Key" : 67,
 				"Fakewalk Key Mode" : 1,
-				"Fakewalk Max Choke" : 3
+				"Fakewalk Max Choke" : 11
 			},
 			"Inverse Yaw Key" : 5,
 			"Inverse Yaw Key Mode" : 1
@@ -1060,12 +1060,13 @@
 		"In Air" : 
 		{
 			"Enabled" : true,
-			"LBY Breaker Angle" : 102.91000366210938,
+			"LBY Breaker Angle" : 180.0,
 			"LBY Breaker Enabled" : true,
 			"Pitch Angle" : 89.0,
 			"Pitch Enabled" : true,
-			"Yaw Angle" : 178.41000366210938,
-			"Yaw Desync Enabled" : 0,
+			"Yaw Angle" : 180.0,
+			"Yaw Desync Body Lean" : 100.0,
+			"Yaw Desync Enabled" : true,
 			"Yaw Desync Jitter Max" : 100.0,
 			"Yaw Desync Jitter Min" : -100.0,
 			"Yaw Desync Mode" : 0,
@@ -1079,12 +1080,13 @@
 		"Moving" : 
 		{
 			"Enabled" : true,
-			"LBY Breaker Angle" : 100.52999877929688,
+			"LBY Breaker Angle" : 180.0,
 			"LBY Breaker Enabled" : true,
 			"Pitch Angle" : 89.0,
 			"Pitch Enabled" : true,
 			"Yaw Angle" : 178.41000366210938,
-			"Yaw Desync Enabled" : 0,
+			"Yaw Desync Body Lean" : 100.0,
+			"Yaw Desync Enabled" : true,
 			"Yaw Desync Jitter Max" : -100.0,
 			"Yaw Desync Jitter Min" : 100.0,
 			"Yaw Desync Mode" : 0,
@@ -1098,12 +1100,13 @@
 		"Standing" : 
 		{
 			"Enabled" : true,
-			"LBY Breaker Angle" : 77.480003356933594,
+			"LBY Breaker Angle" : 180.0,
 			"LBY Breaker Enabled" : true,
 			"Pitch Angle" : 89.0,
 			"Pitch Enabled" : true,
 			"Yaw Angle" : 180.0,
-			"Yaw Desync Enabled" : 0,
+			"Yaw Desync Body Lean" : 100.0,
+			"Yaw Desync Enabled" : true,
 			"Yaw Desync Jitter Max" : 100.0,
 			"Yaw Desync Jitter Min" : -100.0,
 			"Yaw Desync Mode" : 0,
@@ -5951,7 +5954,7 @@
 			"paint_kit_index" : 562,
 			"paint_kit_vector_index" : 453,
 			"seed" : 0,
-			"stat_trak" : 1348,
+			"stat_trak" : 1349,
 			"stickers" : 
 			[
 				{
