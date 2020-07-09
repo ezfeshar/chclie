@@ -7,12 +7,12 @@
 			"Auto shot" : false,
 			"Between shots" : false,
 			"Bone" : 2,
-			"Enabled" : true,
-			"Fov" : 1.00,
+			"Enabled" : false,
+			"Fov" : 1.0,
 			"Friendly fire" : false,
 			"Ignore flash" : true,
 			"Ignore smoke" : false,
-			"Key" : 6,
+			"Key" : 1,
 			"Key mode" : 0,
 			"Killshot" : false,
 			"Max aim inaccuracy" : 1.0,
@@ -24,32 +24,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 17.649999618530273,
-			"Visible only" : false,
-			"jump check" : true
-		},
-		{
-			"Aimlock" : false,
-			"Auto scope" : false,
-			"Auto shot" : false,
-			"Between shots" : true,
-			"Bone" : 0,
-			"Enabled" : false,
-			"Fov" : 0.0,
-			"Friendly fire" : false,
-			"Ignore flash" : false,
-			"Ignore smoke" : false,
-			"Key" : 0,
-			"Key mode" : 0,
-			"Killshot" : false,
-			"Max aim inaccuracy" : 1.0,
-			"Max shot inaccuracy" : 1.0,
-			"Min damage" : 1,
-			"On key" : false,
-			"Recoil control X" : 0.0,
-			"Recoil control Y" : 0.0,
-			"Scoped only" : true,
-			"Silent" : false,
-			"Smooth" : 1.0,
+			"Standalone RCS" : true,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -76,6 +52,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -102,6 +80,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -128,6 +108,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -154,6 +136,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -180,6 +164,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -206,6 +192,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -232,6 +220,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -258,6 +248,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -284,6 +276,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -310,6 +304,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -336,6 +332,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -362,6 +360,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -388,6 +388,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -414,6 +416,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -440,6 +444,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -466,6 +472,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -492,6 +500,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -518,6 +528,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -544,6 +556,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -570,6 +584,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -596,6 +612,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -622,6 +640,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -648,6 +668,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -674,6 +696,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -700,6 +724,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -726,6 +752,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -752,6 +780,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -778,6 +808,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -804,6 +836,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -830,6 +864,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -856,6 +892,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -882,6 +920,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -908,6 +948,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -934,6 +976,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -960,6 +1004,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -986,6 +1032,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -1012,6 +1060,8 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		},
@@ -1038,82 +1088,56 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
 			"Visible only" : true,
 			"jump check" : true
 		}
 	],
 	"Anti aim" : 
 	{
-		"General" : 
-		{
-			"Enabled" : false,
-			"Fakewalk" : 
-			{
-				"Enabled" : false,
-				"Fakewalk Key" : 0,
-				"Fakewalk Key Mode" : 0,
-				"Fakewalk Max Choke" : 3
-			},
-			"Inverse Yaw Key" : 0,
-			"Inverse Yaw Key Mode" : 0
-		},
-		"In Air" : 
-		{
-			"Enabled" : false,
-			"LBY Breaker Angle" : 0.0,
-			"LBY Breaker Enabled" : false,
-			"Pitch Angle" : 0.0,
-			"Pitch Enabled" : false,
-			"Yaw Angle" : 0.0,
-			"Yaw Desync Enabled" : 0,
-			"Yaw Desync Jitter Max" : 0.0,
-			"Yaw Desync Jitter Min" : 0.0,
-			"Yaw Desync Mode" : 0,
-			"Yaw Desync Step" : 0.0,
-			"Yaw Enabled" : false,
-			"Yaw Fake Jitter Max" : 0.0,
-			"Yaw Fake Jitter Min" : 0.0,
-			"Yaw Fake Mode" : 0,
-			"Yaw Fake Step" : 0.0
-		},
-		"Moving" : 
-		{
-			"Enabled" : false,
-			"LBY Breaker Angle" : 0.0,
-			"LBY Breaker Enabled" : false,
-			"Pitch Angle" : 0.0,
-			"Pitch Enabled" : false,
-			"Yaw Angle" : 0.0,
-			"Yaw Desync Enabled" : 0,
-			"Yaw Desync Jitter Max" : 0.0,
-			"Yaw Desync Jitter Min" : 0.0,
-			"Yaw Desync Mode" : 0,
-			"Yaw Desync Step" : 0.0,
-			"Yaw Enabled" : false,
-			"Yaw Fake Jitter Max" : 0.0,
-			"Yaw Fake Jitter Min" : 0.0,
-			"Yaw Fake Mode" : 0,
-			"Yaw Fake Step" : 0.0
-		},
-		"Standing" : 
-		{
-			"Enabled" : false,
-			"LBY Breaker Angle" : 0.0,
-			"LBY Breaker Enabled" : false,
-			"Pitch Angle" : 0.0,
-			"Pitch Enabled" : false,
-			"Yaw Angle" : 0.0,
-			"Yaw Desync Enabled" : 0,
-			"Yaw Desync Jitter Max" : 0.0,
-			"Yaw Desync Jitter Min" : 0.0,
-			"Yaw Desync Mode" : 0,
-			"Yaw Desync Step" : 0.0,
-			"Yaw Enabled" : false,
-			"Yaw Fake Jitter Max" : 0.0,
-			"Yaw Fake Jitter Min" : 0.0,
-			"Yaw Fake Mode" : 0,
-			"Yaw Fake Step" : 0.0
-		}
+		"AntiAim Mode" : 0,
+		"Body Lean" : 0.0,
+		"Enabled" : false,
+		"Inverse Yaw Key" : 0,
+		"Inverse Yaw Key Mode" : 0,
+		"Jitter Max" : 0.0,
+		"Jitter Min" : 0.0,
+		"LBY Angle" : 0.0,
+		"LBY Breaker" : false,
+		"Pitch" : false,
+		"Pitch angle" : 0.0,
+		"Yaw" : false,
+		"Yaw Real" : false,
+		"Yaw angle" : 0.0
 	},
 	"Backtrack" : 
 	{
@@ -1141,8 +1165,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1160,8 +1186,138 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						5.8343172071317895e-08,
+						0.55933880805969238,
+						0.97883599996566772,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : true,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1181,8 +1337,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1200,8 +1358,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1221,48 +1423,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			},
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
-				"Enabled" : false,
-				"Health based" : false,
-				"Material" : 0,
-				"Wireframe" : false
-			}
-		],
-		[
-			{
-				"Blinking" : false,
-				"Color" : 
-				{
-					"Color" : 
-					[
-						1.0,
-						1.0,
-						1.0,
-						1.0
-					],
-					"Rainbow" : false,
-					"Rainbow speed" : 0.60000002384185791
-				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : true,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1280,8 +1444,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1301,8 +1509,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						0.99998998641967773,
+						0.99999332427978516,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
 				"Enabled" : true,
 				"Health based" : false,
+				"Ignore-Z" : true,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1320,8 +1572,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1341,8 +1595,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1360,8 +1616,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1381,8 +1681,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1400,8 +1702,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1421,8 +1767,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1440,8 +1788,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1461,8 +1853,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1480,8 +1874,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1501,8 +1939,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1520,8 +1960,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1541,8 +2025,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1560,8 +2046,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1581,8 +2111,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1600,8 +2132,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1621,8 +2197,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1640,8 +2218,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1661,8 +2283,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1680,8 +2304,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1701,8 +2369,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1720,8 +2390,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1741,8 +2455,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1760,8 +2476,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1781,8 +2541,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1800,8 +2562,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1821,8 +2627,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1840,8 +2648,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1861,8 +2713,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1880,8 +2734,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -1901,8 +2799,10 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
@@ -1920,8 +2820,52 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -3198,9 +4142,6 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Draw multi points" : false,
-				"Draw multi points expansion" : 0.41999998688697815,
-				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -3378,9 +4319,6 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Draw multi points" : false,
-				"Draw multi points expansion" : 0.41999998688697815,
-				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -3558,9 +4496,6 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Draw multi points" : false,
-				"Draw multi points expansion" : 0.41999998688697815,
-				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -3738,9 +4673,6 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Draw multi points" : false,
-				"Draw multi points expansion" : 0.41999998688697815,
-				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -3918,9 +4850,6 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Draw multi points" : false,
-				"Draw multi points expansion" : 0.41999998688697815,
-				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -4098,9 +5027,6 @@
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
-				"Draw multi points" : false,
-				"Draw multi points expansion" : 0.41999998688697815,
-				"Draw multi points only head" : false,
 				"Enabled" : false,
 				"Eye traces" : 
 				{
@@ -4873,14 +5799,11 @@
 		"Animated clan tag" : false,
 		"Anti AFK kick" : false,
 		"Aspect Ratio" : 0.0,
-		"Auto accept" : true,
+		"Auto accept" : false,
 		"Auto pistol" : true,
 		"Auto reload" : true,
 		"Auto strafe" : true,
 		"Auto strafe style" : 0,
-		"Autozeus" : false,
-		"Autozeus BAIM Only" : false,
-		"Autozeus Max Pen Dist" : 0,
 		"Ban color" : 6,
 		"Ban text" : "Cheater has been permanently banned from official CS:GO servers.",
 		"Bomb Damage Indicator" : true,
@@ -4899,7 +5822,7 @@
 		"Bunny hop" : true,
 		"Clan tag" : "",
 		"Clock tag" : false,
-		"Custom Hit Sound" : "",
+		"Custom Hit Sound" : "cod",
 		"Custom Kill Sound" : "",
 		"Custom clan tag" : false,
 		"Disable HUD blur" : false,
@@ -4908,7 +5831,7 @@
 		"Edge Jump Key" : 18,
 		"Fake Duck" : false,
 		"Fake Duck Key" : 0,
-		"Fake prime" : true,
+		"Fake prime" : false,
 		"Fakelag In Air" : false,
 		"Fakelag Mode" : 0,
 		"Fakelag Ticks" : 0,
@@ -4923,15 +5846,15 @@
 		"Fix movement" : true,
 		"Fix tablet signal" : true,
 		"Grenade predict" : true,
-		"Hit sound" : 2,
+		"Hit sound" : 0,
 		"Kill message" : false,
 		"Kill message string" : "",
-		"Kill sound" : 4,
+		"Kill sound" : 0,
 		"Max angle delta" : 255.0,
 		"Menu key" : 45,
 		"Moonwalk" : false,
 		"Name stealer" : false,
-		"Prepare revolver" : true,
+		"Prepare revolver" : false,
 		"Prepare revolver key" : 0,
 		"Purchase List" : 
 		{
@@ -4942,15 +5865,15 @@
 			"Show Prices" : true
 		},
 		"Quick healthshot key" : 0,
-		"Quick reload" : true,
-		"Radar hack" : true,
+		"Quick reload" : false,
+		"Radar hack" : false,
 		"Recoil crosshair" : true,
 		"Reveal money" : true,
 		"Reveal ranks" : true,
 		"Reveal suspect" : true,
 		"Slowwalk" : false,
 		"Slowwalk key" : 18,
-		"Sniper crosshair" : true,
+		"Sniper crosshair" : false,
 		"Spectator list" : 
 		{
 			"Color" : 
@@ -4981,7 +5904,7 @@
 	{
 		"Abusive Communications" : false,
 		"Aim Hacking" : true,
-		"Delay" : 1,
+		"Delay" : 3,
 		"Enabled" : false,
 		"Griefing" : false,
 		"Other Hacking" : true,
@@ -5943,15 +6866,15 @@
 			"Enabled" : true,
 			"custom_name" : "",
 			"definition_index" : 42,
-			"definition_override_index" : 500,
-			"definition_override_vector_index" : 1,
+			"definition_override_index" : 515,
+			"definition_override_vector_index" : 14,
 			"definition_vector_index" : 0,
 			"entity_quality_index" : 12,
 			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 572,
-			"paint_kit_vector_index" : 332,
+			"paint_kit_index" : 12,
+			"paint_kit_vector_index" : 197,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 21,
 			"stickers" : 
 			[
 				{
@@ -6054,10 +6977,10 @@
 			"definition_vector_index" : 2,
 			"entity_quality_index" : 12,
 			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 707,
-			"paint_kit_vector_index" : 512,
+			"paint_kit_index" : 302,
+			"paint_kit_vector_index" : 780,
 			"seed" : 0,
-			"stat_trak" : 9,
+			"stat_trak" : 57,
 			"stickers" : 
 			[
 				{
@@ -6099,16 +7022,16 @@
 			"wear" : 1.1754943508222875e-38
 		},
 		{
-			"Enabled" : false,
+			"Enabled" : true,
 			"custom_name" : "",
-			"definition_index" : 1,
+			"definition_index" : 8,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
+			"definition_vector_index" : 3,
+			"entity_quality_index" : 12,
+			"entity_quality_vector_index" : 10,
+			"paint_kit_index" : 845,
+			"paint_kit_vector_index" : 487,
 			"seed" : 0,
 			"stat_trak" : 0,
 			"stickers" : 
@@ -6160,10 +7083,10 @@
 			"definition_vector_index" : 4,
 			"entity_quality_index" : 12,
 			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 279,
-			"paint_kit_vector_index" : 37,
+			"paint_kit_index" : 803,
+			"paint_kit_vector_index" : 506,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 48,
 			"stickers" : 
 			[
 				{
@@ -6205,16 +7128,16 @@
 			"wear" : 1.1754943508222875e-38
 		},
 		{
-			"Enabled" : false,
+			"Enabled" : true,
 			"custom_name" : "",
-			"definition_index" : 1,
+			"definition_index" : 63,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
+			"definition_vector_index" : 5,
+			"entity_quality_index" : 12,
+			"entity_quality_vector_index" : 10,
+			"paint_kit_index" : 12,
+			"paint_kit_vector_index" : 197,
 			"seed" : 0,
 			"stat_trak" : 0,
 			"stickers" : 
@@ -6266,10 +7189,10 @@
 			"definition_vector_index" : 6,
 			"entity_quality_index" : 12,
 			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 37,
-			"paint_kit_vector_index" : 83,
+			"paint_kit_index" : 711,
+			"paint_kit_vector_index" : 166,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 12,
 			"stickers" : 
 			[
 				{
@@ -6311,16 +7234,16 @@
 			"wear" : 1.1754943508222875e-38
 		},
 		{
-			"Enabled" : false,
+			"Enabled" : true,
 			"custom_name" : "",
-			"definition_index" : 1,
+			"definition_index" : 2,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
+			"definition_vector_index" : 7,
 			"entity_quality_index" : 0,
 			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
+			"paint_kit_index" : 249,
+			"paint_kit_vector_index" : 164,
 			"seed" : 0,
 			"stat_trak" : 0,
 			"stickers" : 
@@ -6584,10 +7507,10 @@
 			"definition_vector_index" : 12,
 			"entity_quality_index" : 12,
 			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 38,
-			"paint_kit_vector_index" : 295,
+			"paint_kit_index" : 957,
+			"paint_kit_vector_index" : 122,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 30,
 			"stickers" : 
 			[
 				{
@@ -6690,10 +7613,10 @@
 			"definition_vector_index" : 14,
 			"entity_quality_index" : 12,
 			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 548,
-			"paint_kit_vector_index" : 150,
+			"paint_kit_index" : 321,
+			"paint_kit_vector_index" : 466,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 10,
 			"stickers" : 
 			[
 				{
@@ -6746,7 +7669,7 @@
 			"paint_kit_index" : 309,
 			"paint_kit_vector_index" : 390,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 4,
 			"stickers" : 
 			[
 				{
@@ -7223,60 +8146,7 @@
 			"paint_kit_index" : 678,
 			"paint_kit_vector_index" : 661,
 			"seed" : 0,
-			"stat_trak" : 0,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 1,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
-			"entity_quality_index" : 0,
-			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
-			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 1,
 			"stickers" : 
 			[
 				{
@@ -7532,67 +8402,14 @@
 		{
 			"Enabled" : true,
 			"custom_name" : "",
-			"definition_index" : 40,
+			"definition_index" : 38,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 30,
-			"entity_quality_index" : 12,
-			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 624,
-			"paint_kit_vector_index" : 265,
-			"seed" : 0,
-			"stat_trak" : 7,
-			"stickers" : 
-			[
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				},
-				{
-					"kit" : 0,
-					"kit_vector_index" : 0,
-					"rotation" : 0.0,
-					"scale" : 1.0,
-					"wear" : 1.1754943508222875e-38
-				}
-			],
-			"wear" : 1.1754943508222875e-38
-		},
-		{
-			"Enabled" : false,
-			"custom_name" : "",
-			"definition_index" : 39,
-			"definition_override_index" : 0,
-			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 31,
+			"definition_vector_index" : 29,
 			"entity_quality_index" : 0,
 			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
+			"paint_kit_index" : 597,
+			"paint_kit_vector_index" : 92,
 			"seed" : 0,
 			"stat_trak" : 0,
 			"stickers" : 
@@ -7636,16 +8453,122 @@
 			"wear" : 1.1754943508222875e-38
 		},
 		{
-			"Enabled" : false,
+			"Enabled" : true,
 			"custom_name" : "",
-			"definition_index" : 1,
+			"definition_index" : 40,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
-			"definition_vector_index" : 0,
+			"definition_vector_index" : 30,
+			"entity_quality_index" : 12,
+			"entity_quality_vector_index" : 10,
+			"paint_kit_index" : 624,
+			"paint_kit_vector_index" : 265,
+			"seed" : 0,
+			"stat_trak" : 17,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : true,
+			"custom_name" : "",
+			"definition_index" : 39,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 31,
+			"entity_quality_index" : 12,
+			"entity_quality_vector_index" : 10,
+			"paint_kit_index" : 897,
+			"paint_kit_vector_index" : 170,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : true,
+			"custom_name" : "",
+			"definition_index" : 30,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 32,
 			"entity_quality_index" : 0,
 			"entity_quality_vector_index" : 0,
-			"paint_kit_index" : 0,
-			"paint_kit_vector_index" : 0,
+			"paint_kit_index" : 889,
+			"paint_kit_vector_index" : 230,
 			"seed" : 0,
 			"stat_trak" : 0,
 			"stickers" : 
@@ -7750,10 +8673,10 @@
 			"definition_vector_index" : 34,
 			"entity_quality_index" : 12,
 			"entity_quality_vector_index" : 10,
-			"paint_kit_index" : 504,
-			"paint_kit_vector_index" : 432,
+			"paint_kit_index" : 653,
+			"paint_kit_vector_index" : 508,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : 29,
 			"stickers" : 
 			[
 				{
@@ -7859,7 +8782,7 @@
 				1.0
 			],
 			"Enabled" : false,
-			"Rainbow" : false,
+			"Rainbow" : true,
 			"Rainbow speed" : 0.60000002384185791
 		},
 		"Color correction" : 
@@ -7880,15 +8803,15 @@
 		"Fov" : 0,
 		"Hit effect" : 0,
 		"Hit effect time" : 0.60000002384185791,
-		"Hit marker" : 0,
-		"Hit marker time" : 0.60000002384185791,
+		"Hit marker" : 1,
+		"Hit marker time" : 0.20000000298023224,
 		"Indicators Enabled" : false,
 		"LBY Indicator" : false,
 		"No aim punch" : false,
 		"No view punch" : false,
 		"No zoom" : false,
-		"Playermodel CT" : 4,
-		"Playermodel T" : 16,
+		"Playermodel CT" : 0,
+		"Playermodel T" : 0,
 		"Screen effect" : 0,
 		"Sky" : 
 		{
@@ -7902,6 +8825,7 @@
 			"Rainbow" : false,
 			"Rainbow speed" : 0.60000002384185791
 		},
+		"Thirdperson Mode" : 0,
 		"World" : 
 		{
 			"Color" : 
@@ -7919,9 +8843,9 @@
 		"brightness" : 0.0,
 		"disablePostProcessing" : false,
 		"farZ" : 0,
-		"flashReduction" : 100,
+		"flashReduction" : 0,
 		"inverseRagdollGravity" : false,
-		"no3dSky" : false,
+		"no3dSky" : true,
 		"noBlur" : false,
 		"noFog" : false,
 		"noGrass" : false,
@@ -7932,7 +8856,7 @@
 		"noSmoke" : false,
 		"noWeapons" : false,
 		"skybox" : 0,
-		"thirdperson" : false,
+		"thirdperson" : true,
 		"thirdpersonDistance" : 0,
 		"thirdpersonKey" : 34,
 		"viewmodelFov" : 0,
