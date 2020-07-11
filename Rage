@@ -5853,7 +5853,7 @@
 		"Max angle delta" : 255.0,
 		"Menu key" : 45,
 		"Moonwalk" : true,
-		"Name stealer" : true,
+		"Name stealer" : false,
 		"Prepare revolver" : true,
 		"Prepare revolver key" : 0,
 		"Purchase List" : 
