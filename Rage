@@ -1124,7 +1124,7 @@
 	],
 	"Anti aim" : 
 	{
-		"AntiAim Mode" : 1,
+		"AntiAim Mode" : 0,
 		"Body Lean" : 100.0,
 		"Enabled" : true,
 		"Inverse Yaw Key" : 70,
@@ -1137,7 +1137,7 @@
 		"Pitch angle" : 89.0,
 		"Yaw" : true,
 		"Yaw Real" : true,
-		"Yaw angle" : 171.08000183105469
+		"Yaw angle" : 142.57000732421875
 	},
 	"Backtrack" : 
 	{
@@ -5820,11 +5820,11 @@
 			"Rainbow speed" : 0.60000002384185791
 		},
 		"Bunny hop" : true,
-		"Clan tag" : "",
+		"Clan tag" : "Potato War",
 		"Clock tag" : false,
 		"Custom Hit Sound" : "cod",
 		"Custom Kill Sound" : "cod",
-		"Custom clan tag" : false,
+		"Custom clan tag" : true,
 		"Disable HUD blur" : false,
 		"Disable model occlusion" : true,
 		"Edge Jump" : false,
@@ -5852,8 +5852,8 @@
 		"Kill sound" : 3,
 		"Max angle delta" : 255.0,
 		"Menu key" : 45,
-		"Moonwalk" : false,
-		"Name stealer" : false,
+		"Moonwalk" : true,
+		"Name stealer" : true,
 		"Prepare revolver" : true,
 		"Prepare revolver key" : 0,
 		"Purchase List" : 
@@ -5905,7 +5905,7 @@
 		"Abusive Communications" : false,
 		"Aim Hacking" : true,
 		"Delay" : 3,
-		"Enabled" : true,
+		"Enabled" : false,
 		"Griefing" : false,
 		"Other Hacking" : true,
 		"Rounds" : 10000,
@@ -6516,6 +6516,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 1
 		},
@@ -6533,6 +6537,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6550,6 +6558,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6567,6 +6579,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6584,6 +6600,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6601,6 +6621,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6618,6 +6642,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6635,6 +6663,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6652,6 +6684,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6669,6 +6705,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6686,6 +6726,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6703,6 +6747,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6720,6 +6768,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 1
 		},
@@ -6737,6 +6789,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6754,6 +6810,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6771,6 +6831,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : true,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 1
 		},
@@ -6788,6 +6852,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6805,6 +6873,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6822,6 +6894,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6839,6 +6915,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		},
@@ -6856,6 +6936,10 @@
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
 			"style" : 0
 		}
@@ -8411,7 +8495,7 @@
 			"paint_kit_index" : 597,
 			"paint_kit_vector_index" : 92,
 			"seed" : 0,
-			"stat_trak" : 1856,
+			"stat_trak" : 1865,
 			"stickers" : 
 			[
 				{
@@ -8813,6 +8897,18 @@
 		"Playermodel CT" : 1,
 		"Playermodel T" : 13,
 		"Screen effect" : 0,
+		"Show velocity" : 
+		{
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0
+			],
+			"Enabled" : false,
+			"Rainbow" : false,
+			"Rainbow speed" : 0.60000002384185791
+		},
 		"Sky" : 
 		{
 			"Color" : 
