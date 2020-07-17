@@ -22,7 +22,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -45,7 +48,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -68,7 +74,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -91,7 +100,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -114,7 +126,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -137,7 +152,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -160,7 +178,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -183,7 +204,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -206,7 +230,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -229,7 +256,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -252,7 +282,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -275,7 +308,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -298,7 +334,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -321,7 +360,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -344,7 +386,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -367,7 +412,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -390,7 +438,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -413,7 +464,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -436,7 +490,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -459,7 +516,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -482,7 +542,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -505,7 +568,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -528,7 +594,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -551,7 +620,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -574,7 +646,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -597,7 +672,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -620,7 +698,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -643,7 +724,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -666,7 +750,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -689,7 +776,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -712,7 +802,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -735,7 +828,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -758,7 +854,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -781,7 +880,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -804,7 +906,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -827,7 +932,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -850,7 +958,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -873,7 +984,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -896,7 +1010,10 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		},
 		{
 			"Aimlock" : false,
@@ -919,20 +1036,31 @@
 			"Scoped only" : true,
 			"Silent" : false,
 			"Smooth" : 1.0,
-			"Visible only" : true
+			"Standalone RCS" : false,
+			"Standalone RCS Ignore Shots" : 0,
+			"Visible only" : true,
+			"jump check" : true
 		}
 	],
 	"Anti aim" : 
 	{
+		"AntiAim Mode" : 0,
+		"Body Lean" : 0.0,
 		"Enabled" : false,
+		"Inverse Yaw Key" : 0,
+		"Inverse Yaw Key Mode" : 0,
 		"Pitch" : false,
 		"Pitch angle" : 0.0,
-		"Yaw" : false
+		"Yaw" : false,
+		"Yaw Real" : false,
+		"Yaw angle" : 0.0
 	},
 	"Backtrack" : 
 	{
 		"Enabled" : false,
+		"Fake Latency" : false,
 		"Ignore smoke" : false,
+		"Latency Ammount" : 200,
 		"Recoil based fov" : false,
 		"Time limit" : 200
 	},
@@ -940,7 +1068,6 @@
 	[
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -948,18 +1075,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -967,20 +1096,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -988,18 +1161,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1007,20 +1182,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1028,18 +1247,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1047,20 +1268,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1068,18 +1333,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1087,20 +1354,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1108,18 +1419,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1127,20 +1440,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1148,18 +1505,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1167,20 +1526,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1188,18 +1591,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1207,20 +1612,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1228,18 +1677,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1247,20 +1698,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1268,18 +1763,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1287,20 +1784,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1308,18 +1849,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1327,20 +1870,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1348,18 +1935,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1367,20 +1956,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1388,18 +2021,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1407,20 +2042,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1428,18 +2107,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1447,20 +2128,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1468,18 +2193,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1487,20 +2214,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1508,18 +2279,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1527,20 +2300,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1548,18 +2365,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1567,20 +2386,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1588,18 +2451,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1607,20 +2472,64 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
 		],
 		[
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1628,18 +2537,20 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			},
 			{
-				"Alpha" : 1.0,
 				"Blinking" : false,
 				"Color" : 
 				{
@@ -1647,13 +2558,58 @@
 					[
 						1.0,
 						1.0,
+						1.0,
 						1.0
 					],
 					"Rainbow" : false,
 					"Rainbow speed" : 0.60000002384185791
 				},
+				"Cover" : false,
 				"Enabled" : false,
 				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Cover" : false,
+				"Enabled" : false,
+				"Health based" : false,
+				"Ignore-Z" : false,
 				"Material" : 0,
 				"Wireframe" : false
 			}
@@ -4591,8 +5547,10 @@
 		"Auto pistol" : false,
 		"Auto reload" : false,
 		"Auto strafe" : false,
+		"Auto strafe style" : 0,
 		"Ban color" : 6,
 		"Ban text" : "Cheater has been permanently banned from official CS:GO servers.",
+		"Bomb Damage Indicator" : false,
 		"Bomb timer" : 
 		{
 			"Color" : 
@@ -4606,8 +5564,6 @@
 			"Rainbow speed" : 0.60000002384185791
 		},
 		"Bunny hop" : false,
-		"Choked packets" : 0,
-		"Choked packets key" : 0,
 		"Clan tag" : "",
 		"Clock tag" : false,
 		"Custom Hit Sound" : "",
@@ -4617,7 +5573,16 @@
 		"Disable model occlusion" : false,
 		"Edge Jump" : false,
 		"Edge Jump Key" : 0,
+		"Fake Duck" : false,
+		"Fake Duck Key" : 0,
 		"Fake prime" : false,
+		"Fakelag In Air" : false,
+		"Fakelag Mode" : 0,
+		"Fakelag Ticks" : 0,
+		"Fakelag While Moving" : false,
+		"Fakelag While Shooting" : false,
+		"Fakelag While Standing" : false,
+		"Fakelag key" : 0,
 		"Fast duck" : false,
 		"Fast plant" : false,
 		"Fix animation LOD" : false,
@@ -4627,7 +5592,7 @@
 		"Grenade predict" : false,
 		"Hit sound" : 0,
 		"Kill message" : false,
-		"Kill message string" : "Gotcha!",
+		"Kill message string" : "666",
 		"Kill sound" : 0,
 		"Max angle delta" : 255.0,
 		"Menu key" : 45,
@@ -4665,6 +5630,7 @@
 			"Rainbow" : false,
 			"Rainbow speed" : 0.60000002384185791
 		},
+		"Sv pure bypass" : false,
 		"Watermark" : 
 		{
 			"Color" : 
@@ -5287,16 +6253,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5305,16 +6274,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5323,16 +6295,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5341,16 +6316,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5359,16 +6337,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5377,16 +6358,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5395,16 +6379,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5413,16 +6400,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5431,16 +6421,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5449,16 +6442,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5467,16 +6463,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5485,16 +6484,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5503,16 +6505,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5521,16 +6526,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5539,16 +6547,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5557,16 +6568,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5575,16 +6589,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5593,16 +6610,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5611,16 +6631,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5629,16 +6652,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		},
 		{
 			"Color" : 
@@ -5647,16 +6673,19 @@
 				[
 					1.0,
 					1.0,
+					1.0,
 					1.0
 				],
 				"Rainbow" : false,
 				"Rainbow speed" : 0.60000002384185791
 			},
 			"Enabled" : false,
-			"alpha" : 1.0,
+			"Key" : 0,
+			"Key mode" : 0,
+			"On key" : false,
+			"Toggle" : true,
 			"healthBased" : false,
-			"style" : 0,
-			"thickness" : 1.0
+			"style" : 0
 		}
 	],
 	"skinChanger" : 
@@ -5664,7 +6693,7 @@
 		{
 			"Enabled" : false,
 			"custom_name" : "",
-			"definition_index" : 1,
+			"definition_index" : 42,
 			"definition_override_index" : 0,
 			"definition_override_vector_index" : 0,
 			"definition_vector_index" : 0,
@@ -5673,7 +6702,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -5726,7 +6755,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -5779,7 +6808,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -5832,7 +6861,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -5885,7 +6914,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -5938,7 +6967,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -5991,7 +7020,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6044,7 +7073,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6097,7 +7126,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6150,7 +7179,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6203,7 +7232,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6256,7 +7285,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6309,7 +7338,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6362,7 +7391,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6415,7 +7444,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6468,7 +7497,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6521,7 +7550,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6574,7 +7603,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6627,7 +7656,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6680,7 +7709,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6733,7 +7762,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6786,7 +7815,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6839,7 +7868,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6892,7 +7921,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6945,7 +7974,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -6998,7 +8027,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -7051,7 +8080,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -7104,7 +8133,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -7157,7 +8186,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -7210,7 +8239,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -7263,7 +8292,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -7316,7 +8345,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -7369,7 +8398,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -7422,7 +8451,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -7475,7 +8504,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -7528,7 +8557,7 @@
 			"paint_kit_index" : 0,
 			"paint_kit_vector_index" : 0,
 			"seed" : 0,
-			"stat_trak" : 0,
+			"stat_trak" : -1,
 			"stickers" : 
 			[
 				{
@@ -7572,6 +8601,18 @@
 	],
 	"visuals" : 
 	{
+		"Bullet Beams" : 
+		{
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0
+			],
+			"Enabled" : false,
+			"Rainbow" : false,
+			"Rainbow speed" : 0.60000002384185791
+		},
 		"Color correction" : 
 		{
 			"Blue" : 0.0,
@@ -7584,13 +8625,19 @@
 			"Yellow" : 0.0
 		},
 		"Deagle spinner" : false,
+		"Desync Indicator" : false,
+		"Fakeduck Indicator" : false,
+		"Fakelag Indicator" : false,
 		"Fov" : 0,
 		"Hit effect" : 0,
 		"Hit effect time" : 0.60000002384185791,
 		"Hit marker" : 0,
 		"Hit marker time" : 0.60000002384185791,
+		"Indicators Enabled" : false,
+		"LBY Indicator" : false,
 		"No aim punch" : false,
 		"No view punch" : false,
+		"No zoom" : false,
 		"Playermodel CT" : 0,
 		"Playermodel T" : 0,
 		"Screen effect" : 0,
